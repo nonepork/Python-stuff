@@ -1,4 +1,4 @@
-# Python Badjokes
+# Python stuff
 
 ### Disclaimer
 This project is intended for educational purposes only.
